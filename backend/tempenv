@@ -1,0 +1,5 @@
+"name this as .env"
+
+DATABASE_URL="your postgres db string"
+
+JWT_SECRET="your jwt secret"
